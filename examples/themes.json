@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Animals",
+    "words": [
+      "Elephant",
+      "Giraffe",
+      "Dolphin",
+      "Kangaroo",
+      "Penguin",
+      "Cheetah",
+      "Rabbit",
+      "Panther",
+      "Octopus",
+      "Hamster",
+      "Peacock",
+      "Buffalo"
+    ]
+  },
+  {
+    "title": "Travel",
+    "words": [
+      "Passport",
+      "Suitcase",
+      "Airplane",
+      "Backpack",
+      "Vacation",
+      "Journey",
+      "Compass",
+      "Ticket",
+      "Museum",
+      "Village",
+      "Cruise",
+      "Luggage"
+    ]
+  },
+  {
+    "title": "Food",
+    "words": [
+      "Avocado",
+      "Pancakes",
+      "Lasagna",
+      "Croissant",
+      "Sandwich",
+      "Blueberry",
+      "Caramel",
+      "Popcorn",
+      "Biscuit",
+      "Noodles",
+      "Cupcake",
+      "Spinach"
+    ]
+  },
+  {
+    "title": "Sports",
+    "words": [
+      "Basketball",
+      "Baseball",
+      "Football",
+      "Tennis",
+      "Cycling",
+      "Skating",
+      "Marathon",
+      "Bowling",
+      "Gymnastics",
+      "Volleyball",
+      "Archery",
+      "Cricket"
+    ]
+  }
+]
